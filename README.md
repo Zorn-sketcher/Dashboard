@@ -1,3 +1,2 @@
 # Dashboard
-Testing repository
-This is the first markdown file
+This is the repository with the notebook for the assignment: Analyzing Historical Stock/Revenue Data and Building a Dashboard
